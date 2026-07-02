@@ -1,6 +1,6 @@
 Enter Your Name;
 
-1.E Bergonio
-2.Cassy 
-3.E Bergonio
-5.Dacdac D
+1. E Bergonio
+2. Cassy 
+
+6. Dacdac P
